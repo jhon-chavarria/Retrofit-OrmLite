@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RestClient</string>
+    <string name="server">http://api.elnuevodiario.com.ni/</string>
+    <string name="title_section1">Retrofit y OrmLite-Sqlite</string>
+    <string name="title_section2">Gson Lib  y Sqlite </string>
+    <string name="title_section3">Clean Databases </string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
