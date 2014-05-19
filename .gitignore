@@ -1,0 +1,14 @@
+bin
+gen
+target
+.settings
+.classpath
+.project
+*.keystore
+*.swp
+*.orig
+*.log
+*.properties
+seed.txt
+map.txt
+.DS_Store
